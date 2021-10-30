@@ -1,6 +1,10 @@
 # Cats-and-Dogs-Image-Classification
 Cats and dogs image Classification using Convolutional neural network, and deployed using flask.
 
+Here's how it looks:
+
+![Screenshot (192)](https://user-images.githubusercontent.com/72303641/139555207-6371bd77-66ff-4468-9670-c252dfbd946f.png)
+
 
 you can download the data from here: https://www.kaggle.com/c/dogs-vs-cats/data
 
