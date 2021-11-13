@@ -15,7 +15,7 @@ you can download the data from here: https://www.kaggle.com/c/dogs-vs-cats/data
 
 
 We need to train a model first so we will check training data In the below code we are
-iterating through all images in train folder and then we will split image name with delimiter “.”
+iterating through all images in train folder and then we will split image name with delimiter “.”. Because the name are like Dog.0. Dog.1, cat.0 etc.
 
 ![Screenshot (183)](https://user-images.githubusercontent.com/72303641/139521969-9f16f2d3-6384-4873-83c4-5f80cf6ba8cb.png)
 
